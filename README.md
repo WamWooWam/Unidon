@@ -1,2 +1,2 @@
 # Unidon
-An UWP Mastodon client
+An UWP Mastodon client, because they're all terrible.
